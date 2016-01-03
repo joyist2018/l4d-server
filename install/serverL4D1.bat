@@ -1,1 +1,0 @@
-start i:\GAMES\L\L1server\srcds.exe -console -game left4dead +sv_lan 0 +map l4d_airport05_runway -port 27021
