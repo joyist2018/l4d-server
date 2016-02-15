@@ -1,1 +1,1 @@
-start g:\GAMES\SourceServers\l4d2\srcds.exe -console -game left4dead2 +sv_lan 0 +map c8m1_apartment -port 27020
+start g:\GAMES\SourceServers\l4d2\srcds.exe -console -game left4dead2 +sv_lan 0 +map c8m1_apartment -port 27021
