@@ -1,0 +1,23 @@
+"Phrases"
+{
+	"Admin Menu"
+	{
+		"no"		"Administrasjonsmeny"
+	}
+
+	"Player Commands"
+	{
+		"no"		"Spillerkommandoer"
+	}
+
+	"Server Commands"
+	{
+		"no"		"Serverkommandoer"
+	}
+
+	"Voting Commands"
+	{
+		"no"		"Avstemmnings komandoer"
+	}
+
+}

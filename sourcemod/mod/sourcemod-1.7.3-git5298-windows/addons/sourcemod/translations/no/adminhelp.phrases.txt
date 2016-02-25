@@ -1,0 +1,33 @@
+"Phrases"
+{
+	"Entries n - m in page k"
+	{
+		"no"		"Innlegg {1} - {2} i side {3} "
+	}
+
+	"No description available"
+	{
+		"no"		"Ingen beskrivelse er tilgjengelige"
+	}
+
+	"SM help commands"
+	{
+		"no"		"SourceMod hjelp: Kommandoinnformasjon"
+	}
+
+	"No commands available"
+	{
+		"no"		"Ingen kommandoer er tilgjenngelige"
+	}
+
+	"No matching results found"
+	{
+		"no"		"Søket gav ingen resultat"
+	}
+
+	"Type sm_help to see more"
+	{
+		"no"		"Skriv sm_hjelp {1} for å se mere kommandoer"
+	}
+
+}
