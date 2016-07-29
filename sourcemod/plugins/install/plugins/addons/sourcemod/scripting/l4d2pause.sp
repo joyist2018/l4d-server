@@ -294,26 +294,7 @@ public Action:UnpauseCountdown(Handle:timer, any:client)
 	{
 		return Plugin_Stop;
 	}
-	static iCountdown = 5;
-	if(iCountdown == 0) //Resume game when countdown hits 0
-	{
-		PrintHintTextToAll("Game is Live!");
-		Unpause(client);
-		iCountdown = 5;
-		return Plugin_Stop;
-	}
-	else if (iCountdown == 5) //Start of countdown
-	{
-		PrintToChatAll("Game will resume in %d...", iCountdown);
-		iCountdown--;
-		return Plugin_Continue;
-	}
-	else //Countdown progress
-	{
-		PrintToChatAll("%d...", iCountdown);
-		iCountdown--;
-		return Plugin_Continue;
-	}
+	Unpause(client);
 }
 
 public Action:PauseRequestTimeout(Handle:timer, any:team)
