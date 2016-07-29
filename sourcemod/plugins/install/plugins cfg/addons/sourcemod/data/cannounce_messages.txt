@@ -10,4 +10,9 @@
 		"playerwasnamed"		"1"
 		"message"		"teamkiller"
 	}
+	"STEAM_1:1:38300812"
+	{
+		"playerwasnamed"		"1"
+		"message"		"teamkiller"
+	}
 }
