@@ -1,18 +1,3 @@
 "CustomJoinMessages"
 {
-	"STEAM_1:0:32599262"
-	{
-		"playerwasnamed"		"0125"
-		"message"		"0125"
-	}
-	"STEAM_1:0:40767673"
-	{
-		"playerwasnamed"		"1"
-		"message"		"teamkiller"
-	}
-	"STEAM_1:1:38300812"
-	{
-		"playerwasnamed"		"1"
-		"message"		"teamkiller"
-	}
 }
