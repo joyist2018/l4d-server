@@ -1,0 +1,54 @@
+﻿"Phrases"
+{
+	"Kicked By Rate"
+	{
+		"en"			"You have been auto-kicked for ping masking."
+		"pl"			"Zostales automatycznie-wykopany z powodu maskowania pingu."
+		"dk" 			"Du er blevet auto-kicket pе grund af ping masking."
+		"de" 			"Du wurdest wegen ping masking automatisch gekickt."
+		"jp" 			"Anata ha jidouteki ni sakujo sa re you pingumasuku."
+		"no" 			"Du har blitt kastet ut automatisk pе grunn av ping masking."
+		"ru" 			"Вы были автоматически кикнуты за использование маскировки пинга."
+		"hu"			"Automatikusan ki lettél rúgva a ping-álcázás miatt"
+		"ro" 			"Ati fost delogat automat pentru mascarea ping-ului."
+	}
+
+	"Player Kicked By Rate"
+	{
+		"en" 			"was auto-kicked due to ping masking."
+		"pl"			"zostal automatycznie wykopany z powodu maskowania pingu."
+		"dk" 			"blev auto-kicket pе grund af ping masking."
+		"de" 			"wurde wegen ping masking auto-gekickt."
+		"jp" 			"ha jidouteki ni sakujo sa re you pingumasuku."
+		"no" 			"ble kastet ut automatisk pе grunn av ping masking."
+		"ru" 			"был автоматически кикнут за использование маскировки пинга."
+		"hu"			" automatikusan ki lett rúgva ping-álcázás miatt"
+		"ro" 			"a fost delogat pentru mascarea ping-ului."
+	}
+	
+	"Banned For Ping Mask"
+	{
+		"en"			"You have been auto-banned for ping masking."
+		"pl"			"Zostales automatycznie zbanowany z powodu maskowania pingu."
+		"dk" 			"Du er blevet auto-bannet pе grund af ping masking."
+		"de" 			"Du wurdest wegen ping masking automatisch gebannt."
+		"jp"			"Anata ha jidouteki ni kinshi sa re you pingumasuku."
+		"no" 			"Du har blitt auto-bannet pе grunn av ping masking."
+		"ru" 			"Вы были автоматически забанены за использование маскировки пинга."
+		"hu"			"Automatikusan ki lettél tiltva ping-álcázás miatt"
+		"ro" 			"Ati fost banat automat pentru mascarea ping-ului."
+	}
+	
+	"Player Banned By Rate"
+	{
+		"en"			"was auto-banned due to ping masking."
+		"pl"			"zostal automatycznie zbanowany z powodu maskowania pingu."
+		"dk" 			"blev auto-bannet pе grund af ping masking."
+		"de" 			"wurde wegen ping masking automatisch gebannt."
+		"jp" 			"ha jidouteki ni kinshi sa re you pingumasuku."
+		"no" 			"ble auto-bannet pе grunn av ping masking."
+		"ru" 			"был автоматически забанен за использование маскировки пинга."
+		"hu"			"automatikusan kitiltva ping-álcázás miatt"
+		"ro" 			"a fost banat automat pentru mascarea ping-ului."
+	}
+}

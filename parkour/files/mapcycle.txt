@@ -1,0 +1,13 @@
+l4d_airport01_greenhouse
+l4d_airport02_offices
+l4d_airport03_garage
+l4d_airport05_runway
+l4d_farm01_hilltop
+l4d_farm04_barn
+l4d_hospital01_apartment
+l4d_hospital03_sewers
+l4d_hospital04_interior
+l4d_hospital05_rooftop
+l4d_smalltown01_caves
+l4d_smalltown03_ranchhouse
+l4d_smalltown05_houseboat

@@ -1,0 +1,43 @@
+L 11/08/2015 - 02:59:21: [bebop.smx] +-------------------------------------------+
+L 11/08/2015 - 02:59:21: [bebop.smx] |               PLUGIN START                |
+L 11/08/2015 - 02:59:21: [bebop.smx] +-------------------------------------------+
+L 11/08/2015 - 02:59:21: [bebop.smx] |               Version: 0.2 beta           |
+L 11/08/2015 - 02:59:21: [bebop.smx] +-------------------------------------------+
+L 11/08/2015 - 02:59:21: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 11/08/2015 - 02:59:22: [bebop.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 11/08/2015 - 02:59:50: [bebop.smx] PLAYER_ACTIVATE: --> KaiN <-- just activated in the game
+L 11/08/2015 - 03:02:45: [bebop.smx] +-------------------------------------------+
+L 11/08/2015 - 03:02:45: [bebop.smx] |                  MAP END                  |
+L 11/08/2015 - 03:02:45: [bebop.smx] +-------------------------------------------+
+L 11/08/2015 - 03:14:12: [bebop.smx] +-------------------------------------------+
+L 11/08/2015 - 03:14:12: [bebop.smx] |               PLUGIN START                |
+L 11/08/2015 - 03:14:12: [bebop.smx] +-------------------------------------------+
+L 11/08/2015 - 03:14:12: [bebop.smx] |               Version: 0.2 beta           |
+L 11/08/2015 - 03:14:12: [bebop.smx] +-------------------------------------------+
+L 11/08/2015 - 03:14:12: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 11/08/2015 - 03:14:12: [bebop.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 11/08/2015 - 03:14:39: [bebop.smx] PLAYER_ACTIVATE: --> KaiN <-- just activated in the game
+L 11/08/2015 - 03:19:00: [bebop.smx] +-------------------------------------------+
+L 11/08/2015 - 03:19:00: [bebop.smx] |                  MAP END                  |
+L 11/08/2015 - 03:19:00: [bebop.smx] +-------------------------------------------+
+L 11/08/2015 - 03:19:09: [bebop.smx] PLAYER_ACTIVATE: --> KaiN <-- just activated in the game
+L 11/08/2015 - 03:19:29: [bebop.smx] PLAYER_CHANGE_TEAM:	--> KaiN <-- may pressed the afk button
+L 11/08/2015 - 03:19:33: [bebop.smx] +-------------------------------------------+
+L 11/08/2015 - 03:19:33: [bebop.smx] |                  MAP END                  |
+L 11/08/2015 - 03:19:33: [bebop.smx] +-------------------------------------------+
+L 11/08/2015 - 03:21:34: [bebop.smx] +-------------------------------------------+
+L 11/08/2015 - 03:21:34: [bebop.smx] |               PLUGIN START                |
+L 11/08/2015 - 03:21:34: [bebop.smx] +-------------------------------------------+
+L 11/08/2015 - 03:21:34: [bebop.smx] |               Version: 0.2 beta           |
+L 11/08/2015 - 03:21:34: [bebop.smx] +-------------------------------------------+
+L 11/08/2015 - 03:21:34: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 11/08/2015 - 03:21:34: [bebop.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 11/08/2015 - 03:21:53: [bebop.smx] PLAYER_ACTIVATE: --> KaiN <-- just activated in the game
+L 11/08/2015 - 03:23:14: [bebop.smx] PLAYER_CHANGE_TEAM:	--> KaiN <-- may pressed the afk button
+L 11/08/2015 - 03:23:15: [bebop.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> KaiN <-- has been put into the survivor team
+L 11/08/2015 - 03:23:21: [bebop.smx] PLAYER_CHANGE_TEAM:	--> KaiN <-- may pressed the afk button
+L 11/08/2015 - 03:23:22: [bebop.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> KaiN <-- has been put into the survivor team
+L 11/08/2015 - 03:23:41: [bebop.smx] PLAYER_CHANGE_TEAM:	--> KaiN <-- may pressed the afk button
+L 11/08/2015 - 03:23:46: [bebop.smx] +-------------------------------------------+
+L 11/08/2015 - 03:23:46: [bebop.smx] |                  MAP END                  |
+L 11/08/2015 - 03:23:46: [bebop.smx] +-------------------------------------------+

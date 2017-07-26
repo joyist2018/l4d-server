@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"announce_command_message"
+	{
+		"en"	"Rotoblin Configurado by XxRanmaxX"
+	}
+}
+

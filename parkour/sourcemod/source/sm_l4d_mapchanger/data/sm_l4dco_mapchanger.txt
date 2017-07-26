@@ -1,0 +1,64 @@
+"ForceMissionChangerSettings"
+{
+	"l4d_hospital01_apartment"
+	{
+		"next mission map" "l4d_airport01_greenhouse"
+		"dificultad" "Avanzado"
+	}
+	"l4d_airport01_greenhouse"
+	{
+		"next mission map" "l4d_farm01_hilltop"
+		"dificultad" "Facil"
+	}
+	"l4d_farm01_hilltop"
+	{
+		"next mission map" "l4d_airport02_offices"
+		"dificultad" "Avanzado"
+	}
+	"l4d_airport02_offices"
+	{
+		"next mission map" "l4d_smalltown01_caves"
+		"dificultad" "Avanzado"
+	}
+	"l4d_smalltown01_caves"
+	{
+		"next mission map" "l4d_airport03_garage"
+		"dificultad" "Normal"
+	}
+	"l4d_airport03_garage"
+	{ 
+		"next mission map" "l4d_smalltown05_houseboat"
+		"dificultad" "Normal"
+	}
+	"l4d_smalltown05_houseboat"
+	{ 
+		"next mission map" "l4d_hospital03_sewers"
+		"dificultad" "Facil"
+	}
+	"l4d_hospital03_sewers"
+	{
+		"next mission map" "l4d_smalltown03_ranchhouse"
+		"dificultad" "Normal"
+	}
+	"l4d_smalltown03_ranchhouse"
+	{
+		"next mission map" "l4d_farm04_barn"
+		"dificultad" "Normal"
+	}
+	"l4d_farm04_barn"
+	{
+		"next mission map" "l4d_hospital05_rooftop"
+		"dificultad" "Normal"
+	}
+	"l4d_hospital05_rooftop"
+	{
+		"next mission map" "l4d_airport05_runway"
+		"dificultad" "Normal"
+	}
+	"l4d_airport05_runway"
+	{
+		"next mission map" "l4d_hospital01_apartment"
+		"dificultad" "Normal"
+	}
+	
+}

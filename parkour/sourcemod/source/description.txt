@@ -1,0 +1,84 @@
+fortSpawner
+	Spawns objects in maps
+	notes:
+		needs adminmenu to function
+	bugs:
+		adminmenu + fortspawner causes constant "Can't call GetGuidForLastSoundEmitted from server" spamming in the console and starts slowing down the server after a while
+
+parkourMod
+	Stats for each map. Total death count and victories
+	Current death counter gui
+	Gives pills on respawn
+	Saves checkpoints. Also pops up a tooltip when checkpoint reached
+	Respawns survivors when they die
+	Sets survivors health to 1 when they get incapped, for example when hanging off a ledge
+	Detects when a player reaches the end of map checkpoint.
+		Then prints winner to chat and into a tooltip, stops survivors from being able to move and 
+		loads the next map using sm_forcechangemap enabled by sm_l4d_mapchanger
+	Bugs:
+		Text is in spanish
+	
+removeWeapon
+	Removes starting weapon
+	
+weaponCleanup
+	Removes weapon spawns
+	
+blue_l4d2_lamp
+	Spawns blue and red checkpoint lamps
+	
+sm_l4d_mapchanger
+	loads maps
+	
+advertisements
+	notify users about options such as !rtv and !mapvote
+	
+l4dzone.ru parkour server plugin dump:
+	"Anti-Flood" (1.7.3-dev+5280) by AlliedModders LLC
+	"SM Weapon Cleanup" (1.2) by TechKnow
+	"L4D Friendly Fire damage remover" (1.3.0) by R-Hehl
+	"Reserved Slots" (1.7.3-dev+5280) by AlliedModders LLC
+	"Remove Weapons" (0.0.2) by Marcus
+	"Basic Comm Control" (1.7.3-dev+5280) by AlliedModders LLC
+	"Basic Info Triggers" (1.7.3-dev+5280) by AlliedModders LLC
+	"Prop Spawner [FortSpawner Edited]" (1.4.0.0) by JNC
+	"L4D Force Mission Changer 4 Parkour" (1.4.0) by Dionys - Editor: JNC
+	"Basic Commands" (1.7.3-dev+5280) by AlliedModders LLC
+	"Simple CountDown Parkour" (1.6.2) by zxc
+	"SourceBans" (1.4.11) by SourceBans Development Team
+	"[L4D]Infected No Block On Ladder" (1.1) by Figa
+	"L4D Ready Up" (0.2.0) by Downtown1 & The Rotoblin Dev Team
+	"Admin Help" (1.7.3-dev+5280) by AlliedModders LLC
+	"Nazi Fix L4D" (1.0) by Mana Developer - JuanecO other Lines
+	"Stats" (1.0) by Dionys - Editor: JNC
+	"L4D SuperVersus" (1.5.4) by DDRKhat
+	"[L4D2] Campaign/Map Voter" (0.666 beta- fix) by satannuts
+	"Player Commands" (1.7.3-dev+5280) by AlliedModders LLC
+	"Heartbeat trigger" (1.0) by B-man
+	"bebop.smx" bebop.smx
+	"L4D Vote Manager 2" (1.5.5) by Madcap
+	"Simple Chat Colors" (1.1.0) by Simple Plugins
+	"Client Preferences" (1.7.3-dev+5280) by AlliedModders LLC
+	"advertisements_ru_en.smx" advertisements_ru_en.smx
+	"Default Map Changer" (2.5) by TigerOx
+	"[L4D] Character Select Menu" (1.3) by MI 5
+	"Fun Votes" (1.7.3-dev+5280) by AlliedModders LLC
+	"sm_allinfo" (2.1.1) by {7~11} TROLL
+	"Admin File Reader" (1.7.3-dev+5280) by AlliedModders LLC
+	"Connect Announce" (1.6) by Arg!
+	"Fun Commands" (1.7.3-dev+5280) by AlliedModders LLC
+	"serverLoader" (1.0) by archer
+	"Sin infected bots" (0.91) by KaIN
+	"Basic Votes" (1.7.3-dev+5280) by AlliedModders LLC
+	"survivor & infected bot adder[gamemann]" (4) by gamemann
+	"L4D PK Mod [PluginPack]" (0.7) by JNC
+	"Basic Chat" (1.7.3-dev+5280) by AlliedModders LLC
+	"[L4D2] Lamp" (1.2) by SilverShot
+	"GL Crash Fix" (0.1) by Griffin
+	"HLstatsX CE Ingame Plugin" (1.6.19) by psychonic
+	"L4D SM Respawn" (1.9.3) by AtomicStryker & Ivailosp
+	"Sound Commands" (1.7.3-dev+5280) by AlliedModders LLC
+	"Admin Menu" (1.7.3-dev+5280) by AlliedModders LLC
+	"SuperLogs: L4D" (1.3.3) by psychonic
+
+	

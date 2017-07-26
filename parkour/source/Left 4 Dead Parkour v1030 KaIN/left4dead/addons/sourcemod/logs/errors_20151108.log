@@ -1,0 +1,52 @@
+L 11/08/2015 - 02:59:22: SourceMod error session started
+L 11/08/2015 - 02:59:22: Info (map "l4d_hospital01_apartment") (file "errors_20151108.log")
+L 11/08/2015 - 02:59:22: [SM] Plugin encountered error 25: Call was aborted
+L 11/08/2015 - 02:59:22: [SM] Native "ThrowError" reported: Your Left4Downtown Extension (0.3.1.0) is out of date, please upgrade to 0.4.2 or later
+L 11/08/2015 - 02:59:22: [SM] Displaying call stack trace for plugin "l4dready.smx":
+L 11/08/2015 - 02:59:22: [SM]   [0]  Line 1934, l4dready.sp::CheckDependencyVersions()
+L 11/08/2015 - 02:59:22: [SM]   [1]  Line 229, l4dready.sp::OnAllPluginsLoaded()
+L 11/08/2015 - 02:59:37: [SM] Native "GetClientTeam" reported: Client index 0 is invalid
+L 11/08/2015 - 02:59:37: [SM] Displaying call stack trace for plugin "removeweapon.smx":
+L 11/08/2015 - 02:59:37: [SM]   [0]  Line 36, D:\Desktop\Importante\Archer's roto 0.8.1 package WINedition\addons\sourcemod\scripting\removeweapon.sp::RemoveWeapons()
+L 11/08/2015 - 02:59:37: [SM]   [1]  Line 31, D:\Desktop\Importante\Archer's roto 0.8.1 package WINedition\addons\sourcemod\scripting\removeweapon.sp::Event_Start()
+L 11/08/2015 - 02:59:37: [SM] Native "KillTimer" reported: Invalid timer handle 0 (error 4)
+L 11/08/2015 - 02:59:37: [SM] Displaying call stack trace for plugin "Countdown.smx":
+L 11/08/2015 - 02:59:37: [SM]   [0]  Line 73, D:\Desktop\Importante\Archer's roto 0.8.1 package WINedition\addons\sourcemod\scripting\Countdown.sp::OnMapStart()
+L 11/08/2015 - 03:02:50: Error log file session closed.
+L 11/08/2015 - 03:14:12: SourceMod error session started
+L 11/08/2015 - 03:14:12: Info (map "l4d_hospital01_apartment") (file "errors_20151108.log")
+L 11/08/2015 - 03:14:12: [SM] Plugin encountered error 25: Call was aborted
+L 11/08/2015 - 03:14:12: [SM] Native "ThrowError" reported: Your Left4Downtown Extension (0.3.1.0) is out of date, please upgrade to 0.4.2 or later
+L 11/08/2015 - 03:14:12: [SM] Displaying call stack trace for plugin "l4dready.smx":
+L 11/08/2015 - 03:14:12: [SM]   [0]  Line 1934, l4dready.sp::CheckDependencyVersions()
+L 11/08/2015 - 03:14:12: [SM]   [1]  Line 229, l4dready.sp::OnAllPluginsLoaded()
+L 11/08/2015 - 03:14:25: [SM] Native "GetClientTeam" reported: Client index 0 is invalid
+L 11/08/2015 - 03:14:25: [SM] Displaying call stack trace for plugin "removeweapon.smx":
+L 11/08/2015 - 03:14:25: [SM]   [0]  Line 36, D:\Desktop\Importante\Archer's roto 0.8.1 package WINedition\addons\sourcemod\scripting\removeweapon.sp::RemoveWeapons()
+L 11/08/2015 - 03:14:25: [SM]   [1]  Line 31, D:\Desktop\Importante\Archer's roto 0.8.1 package WINedition\addons\sourcemod\scripting\removeweapon.sp::Event_Start()
+L 11/08/2015 - 03:14:25: [SM] Native "KillTimer" reported: Invalid timer handle 0 (error 4)
+L 11/08/2015 - 03:14:25: [SM] Displaying call stack trace for plugin "Countdown.smx":
+L 11/08/2015 - 03:14:25: [SM]   [0]  Line 73, D:\Desktop\Importante\Archer's roto 0.8.1 package WINedition\addons\sourcemod\scripting\Countdown.sp::OnMapStart()
+L 11/08/2015 - 03:19:02: Error log file session closed.
+L 11/08/2015 - 03:19:07: SourceMod error session started
+L 11/08/2015 - 03:19:07: Info (map "l4d_hospital01_apartment") (file "errors_20151108.log")
+L 11/08/2015 - 03:19:07: [SM] Native "GetClientTeam" reported: Client index 0 is invalid
+L 11/08/2015 - 03:19:07: [SM] Displaying call stack trace for plugin "removeweapon.smx":
+L 11/08/2015 - 03:19:07: [SM]   [0]  Line 36, D:\Desktop\Importante\Archer's roto 0.8.1 package WINedition\addons\sourcemod\scripting\removeweapon.sp::RemoveWeapons()
+L 11/08/2015 - 03:19:07: [SM]   [1]  Line 31, D:\Desktop\Importante\Archer's roto 0.8.1 package WINedition\addons\sourcemod\scripting\removeweapon.sp::Event_Start()
+L 11/08/2015 - 03:19:37: Error log file session closed.
+L 11/08/2015 - 03:21:34: SourceMod error session started
+L 11/08/2015 - 03:21:34: Info (map "l4d_hospital01_apartment") (file "errors_20151108.log")
+L 11/08/2015 - 03:21:34: [SM] Plugin encountered error 25: Call was aborted
+L 11/08/2015 - 03:21:34: [SM] Native "ThrowError" reported: Your Left4Downtown Extension (0.3.1.0) is out of date, please upgrade to 0.4.2 or later
+L 11/08/2015 - 03:21:34: [SM] Displaying call stack trace for plugin "l4dready.smx":
+L 11/08/2015 - 03:21:34: [SM]   [0]  Line 1934, l4dready.sp::CheckDependencyVersions()
+L 11/08/2015 - 03:21:34: [SM]   [1]  Line 229, l4dready.sp::OnAllPluginsLoaded()
+L 11/08/2015 - 03:21:44: [SM] Native "GetClientTeam" reported: Client index 0 is invalid
+L 11/08/2015 - 03:21:44: [SM] Displaying call stack trace for plugin "removeweapon.smx":
+L 11/08/2015 - 03:21:44: [SM]   [0]  Line 36, D:\Desktop\Importante\Archer's roto 0.8.1 package WINedition\addons\sourcemod\scripting\removeweapon.sp::RemoveWeapons()
+L 11/08/2015 - 03:21:44: [SM]   [1]  Line 31, D:\Desktop\Importante\Archer's roto 0.8.1 package WINedition\addons\sourcemod\scripting\removeweapon.sp::Event_Start()
+L 11/08/2015 - 03:21:44: [SM] Native "KillTimer" reported: Invalid timer handle 0 (error 4)
+L 11/08/2015 - 03:21:44: [SM] Displaying call stack trace for plugin "Countdown.smx":
+L 11/08/2015 - 03:21:44: [SM]   [0]  Line 73, D:\Desktop\Importante\Archer's roto 0.8.1 package WINedition\addons\sourcemod\scripting\Countdown.sp::OnMapStart()
+L 11/08/2015 - 03:23:56: Error log file session closed.

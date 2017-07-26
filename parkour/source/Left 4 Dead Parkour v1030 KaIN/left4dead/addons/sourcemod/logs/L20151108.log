@@ -1,0 +1,57 @@
+L 11/08/2015 - 02:59:18: SourceMod log file session started (file "L20151108.log") (Version "1.7.3-dev+5273")
+L 11/08/2015 - 02:59:18: -------- Mapchange to l4d_hospital01_apartment --------
+L 11/08/2015 - 02:59:56: [server_loader.smx] executed server_startup.cfg
+L 11/08/2015 - 03:02:50: Log file closed.
+L 11/08/2015 - 03:14:10: SourceMod log file session started (file "L20151108.log") (Version "1.7.3-dev+5273")
+L 11/08/2015 - 03:14:10: -------- Mapchange to l4d_hospital01_apartment --------
+L 11/08/2015 - 03:14:45: [server_loader.smx] executed server_startup.cfg
+L 11/08/2015 - 03:19:02: -------- Mapchange to l4d_hospital01_apartment --------
+L 11/08/2015 - 03:19:37: Log file closed.
+L 11/08/2015 - 03:21:32: SourceMod log file session started (file "L20151108.log") (Version "1.7.3-dev+5273")
+L 11/08/2015 - 03:21:32: -------- Mapchange to l4d_hospital01_apartment --------
+L 11/08/2015 - 03:21:59: [server_loader.smx] executed server_startup.cfg
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d_survivor_limit") (value "8")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_limit") (value "8")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_no_death_check") (value "1")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_team") (value "1")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_no_pounce_or_hang") (value "1")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d_ready_minimum_players") (value "0")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_stop") (value "0")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_stop") (value "1")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_spectatoridletime") (value "9999999999")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_afk_timeout") (value "9999999999")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_allowspectators") (value "0")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sm_l4d_fmc_ifdie") (value "1")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sm_advertisements_interval") (value "15")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_max_incapacitated_count") (value "0")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_no_specials") (value "1")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_no_bosses") (value "1")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_no_mobs") (value "1")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_mob_population_density") (value "1")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_mega_mob_size") (value "1")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_mob_spawn_max_size") (value "1")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_common_limit") (value "0")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hunter_pz_claw_dmg") (value "0")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_no_survivor_bots") (value "0")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_alltalk") (value "1")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_stuck_time_suicide") (value "99999999999")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_ledge_grab_health") (value "0")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_stuck_visibility_tolerance_suicide") (value "99999")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_throw_min_interval") (value "3")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_versus_smoker_limit") (value "0")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_versus_boomer_limit") (value "0")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "60")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "60")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_speed") (value "10")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_throw_interval") (value "1")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_frustration") (value "0")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "20000")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "20000")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "25")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "26")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "30")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "31")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_predict") (value "1")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "1")
+L 11/08/2015 - 03:21:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "100")
+L 11/08/2015 - 03:23:56: Log file closed.

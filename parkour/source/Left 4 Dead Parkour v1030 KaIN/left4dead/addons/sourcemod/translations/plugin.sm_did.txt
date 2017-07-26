@@ -1,0 +1,236 @@
+﻿"Phrases"
+{
+	"About"
+	{
+		"ru"	"Спросите у админов о"
+		"de"	"Frage den Admin nach"
+		"en"	"Pregunale al administrador por"
+		"pl"	"Zapytaj administratora o"
+		"pt"	"Pergunte ao administrador sobre"
+	}
+
+	"HintsTextBlocked"
+	{
+		"ru"	"HintInfo заблокированы для выживших"
+		"de"	"HintInfo sind für die Überlebenden ausgeschaltet"
+		"en"	"HintInfo está desactivado para los supervivientes"
+		"pl"	"HintInfo jest wyłączone dla Ocalałych"
+		"pt"	"HintInfo está bloqueado para os sobreviventes"
+	}
+
+	"DID Menu"
+	{
+		"ru"	"Панель повреждений"
+		"de"	"Modus des Schadenfensters einstellen"
+		"en"	"Cambiar el modo de la pantalla de daño"
+		"pl"	"Wybierz tryb"
+		"pt"	"Definir modo de exibição de dano"
+	}
+
+	"menu stay mode"
+	{
+		"ru"	"Режим не изменен"
+		"de"	"Anzeigemodus nicht gewechselt"
+		"en"	"El modo de la pantalla de daño no se ha cambiado"
+		"pl"	"Tryb nie został zmieniony"
+		"pt"	"Modo de exibição não foi alterado"
+	}
+
+	"menu get mode"
+	{
+		"ru"	"Режим изменен на"
+		"de"	"Anzeigemodus gewechselt zu"
+		"en"	"El modo de la pantalla de daño ha cambiado a"
+		"pl"	"Tryb został zmieniony na"
+		"pt"	"Modo de exibição alterado para"
+	}
+
+	"menu current use"
+	{
+		"ru"	"Выбрано"
+		"de"	"Aktuell"
+		"en"	"Actual"
+		"pl"	"Aktualnie"
+		"pt"	"Atual"
+	}
+
+	"menu all mode"
+	{
+		"ru"	"Отображать все"
+		"de"	"Zeige jeden Schaden"
+		"en"	"Muestra todo el daño"
+		"pl"	"Pokaż wszystkie obrażenia"
+		"pt"	"Mostrar todo o dano"
+	}
+
+	"menu done mode"
+	{
+		"ru"	"Отображать нанесенные"
+		"de"	"Zeige ausgeteilten Schaden"
+		"en"	"Muestra solamente el daño repartido"
+		"pl"	"Pokaż tylko zadane obrażenia"
+		"pt"	"Mostrar apenas o dano causado"
+	}
+
+	"menu received mode"
+	{
+		"ru"	"Отображать полученные"
+		"de"	"Zeiger erhaltenen Schaden"
+		"en"	"Muestra solamente el daño recibido"
+		"pl"	"Pokaż tylko otrzymane obrażenia"
+		"pt"	"Mostrar apenas o dano recebido"
+	}
+
+	"menu disable mode"
+	{
+		"ru"	"Отключить"
+		"de"	"Ausgeschaltet"
+		"en"	"Deactivado"
+		"pl"	"Wyłącz"
+		"pt"	"Desativado"
+	}
+
+	"DID PDeath Menu"
+	{
+		"ru"	"Показать при смерти"
+		"de"	"Bei Tod anzeigen"
+		"en"	"Mostrar al morir"
+		"pl"	"Pokaż po śmierci"
+		"pt"	"Mostrar ao morrer"
+	}
+
+	"menu PDeath total"
+	{
+		"ru"	"Тотальные повреждения"
+		"de"	"Gesamtschaden"
+		"en"	"Daño total"
+		"pl"	"Całkowite obrażenia"
+		"pt"	"Dano Total"
+	}
+
+	"menu PDeath current"
+	{
+		"ru"	"Повреждения за текущий спаун"
+		"de"	"Schaden seit den letzten Spawn"
+		"en"	"Daño desde el comienzo"
+		"pl"	"Obrażenia od ostatniego rozpoczęcia"
+		"pt"	"Dano desde o último spawn"
+	}
+
+	"DID Current Total Menu"
+	{
+		"ru"	"Показать"
+		"de"	"Zeigen"
+		"en"	"Mostrar"
+		"pl"	"Pokaż"
+		"pt"	"Mostrar"
+	}
+
+	"Hint EtoP Hurt"
+	{
+		"ru"	"нанес вам повреждений:"
+		"de"	"Schaden erhalten:"
+		"en"	"Daño recibidio:"
+		"pl"	"odebrał Ci:"
+		"pt"	"lhe causou:"
+	}
+
+	"Hint PtoE Hurt"
+	{
+		"ru"	"Вы нанесли повреждений"
+		"de"	"Schaden ausgeteilt an"
+		"en"	"Daño repartido a:"
+		"pl"	"Zadałeś obrażenia"
+		"pt"	"Dano causado a"
+	}
+
+	"Hint Noob Hurt"
+	{
+		"ru"	"Я нуб!!! Нанес себе повреждений"
+		"de"	"Ich noob habe mir selber Schaden zugefügt"
+		"en"	"Que perdedor, te has hecho daño a ti mismo"
+		"pl"	"Jestem noobem! Odebrałem sobie"
+		"pt"	"Que pitoco, causou dano a ele mesmo"
+	}
+
+	"DID Current Panel"
+	{
+		"ru"	"ПОВРЕЖДЕНИЯ ЗА СПАУН"
+		"de"	"SCHADEN SEIT DEM SPAWN"
+		"en"	"DAÑO DESDE EL COMIENZO"
+		"pl"	"OBRAŻENIA OD ROZPOCZĘCIA"
+		"pt"	"DANO DESDE O ÚLTIMO SPAWN"
+	}
+
+	"DID Total Panel"
+	{
+		"ru"	"ТОТАЛЬНЫЕ ПОВРЕЖДЕНИЯ"
+		"de"	"GESAMTSCHADEN"
+		"en"	"DAÑO TOTAL"
+		"pl"	"CAŁKOWITE OBRAŻNIA"
+		"pt"	"DANO TOTAL"
+	}
+
+	"pnl dmg done"
+	{
+		"ru"	"Нанесено повреждений врагу"
+		"de"	"Schaden an Feind"
+		"en"	"Daño repartido al enemigo"
+		"pl"	"Obrażenia zadane przeciwnikowi"
+		"pt"	"Dano causado ao inimigo"
+	}
+
+	"pnl dmg doneta"
+	{
+		"ru"	"Нанесено повреждений по своим"
+		"de"	"Schaden an eigenen Team"
+		"en"	"Daño repartido al propio equipo"
+		"pl"	"Obrażenia zadane zespołowi"
+		"pt"	"Dano causado ao time"
+	}
+
+	"pnl dmg receive"
+	{
+		"ru"	"Получено повреждений от врага"
+		"de"	"Schaden von Feind erhalten"
+		"en"	"Daño recibido del enemigo"
+		"pl"	"Przeciwnicy zadali obrażeń"
+		"pt"	"Dano recebido pelo inimigo"
+	}
+
+	"pnl dmg zombie"
+	{
+		"ru"	"Получено повреждений от зомби"
+		"de"	"Schaden durch Infizierten erhalten"
+		"en"	"Daño recibido por los zombies"
+		"pl"	"Zarażeni zadali obrażeń"
+		"pt"	"Dano recebido pelos infectados"
+	}
+
+	"pnl dmg receiveta"
+	{
+		"ru"	"Получено повреждений от своих"
+		"de"	"Schaden durch Team erhalten"
+		"en"	"Daño recibido por el propio equipo"
+		"pl"	"Zespół zadał obrażeń"
+		"pt"	"Dano recebido pelo time"
+	}
+
+	"pnl kill zombie"
+	{
+		"ru"	"Убито инфицированных"
+		"de"	"Infizierte getötet"
+		"en"	"Zombies matados"
+		"pl"	"Zabitych zarażonych"
+		"pt"	"Infectados mortos"
+	}
+
+	"pnl kill player"
+	{
+		"ru"	"Убито игроков"
+		"de"	"Spieler getötet"
+		"en"	"Jugadores matados"
+		"pl"	"Zabitych graczy"
+		"pt"	"Jogadores mortos"
+	}
+}
